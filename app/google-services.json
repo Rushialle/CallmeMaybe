@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_id": "callmemaybe-1277",
+    "project_number": "209443961702",
+    "name": "callmemaybe"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209443961702:android:61d114bdc8d10e12",
+        "client_id": "android:com.example.alle.callmemaybe",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.alle.callmemaybe",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209443961702-1noa79lenpuudruh65s8f2pvauch3jjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alle.callmemaybe",
+            "certificate_hash": "8FA8535504598A87ADA7D5C3B5347DB141B47B7A"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
